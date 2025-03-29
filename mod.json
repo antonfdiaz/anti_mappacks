@@ -8,7 +8,8 @@
 	},
 	"id": "t0nchi7.anti_mappacks",
 	"name": "Anti Map Packs",
-	"version": "v1.0.0",
+	"version": "v1.1.0",
 	"developer": "t0nchi7",
-	"description": ""
+	"description": "",
+	"repository": "http://github.com/antonfdiaz/anti_mappacks"
 }
